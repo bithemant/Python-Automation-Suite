@@ -22,7 +22,7 @@ Each script does one job and runs on its own. Pick a script, install whatever li
 | `Find IMDB Ratings.py` | Looks up IMDB ratings and genres for films in a folder and saves them to CSV |
 | `Get the IP Address and Hostname of A Website.py` | Resolves a website to its IP address and hostname |
 | `Image Watermarking.py` | Adds a watermark to an image (Pillow) |
-| `Low Battery Notification.py` | Leap-year and month-days helper functions |
+| `Low Battery Notification.py` | Warns when the laptop battery is low (psutil + plyer) |
 | `Organized download folder with different categories.py` | Sorts a downloads folder into categories |
 | `Password Generator.py` | Generates random passwords |
 | `Python script to compress folders and files.py` | Compresses folders and files into a zip archive |
